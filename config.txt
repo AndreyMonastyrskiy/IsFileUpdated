@@ -1,0 +1,12 @@
+! - The next line is displayed 
+$ - Displays the last modified date of the file specified in the next line, and before the date of the note from the second row 
+_ - Displays an empty string (separator)
+
+*******sample******
+!
+This line of text will be displayed
+_
+$
+file path
+comment to file patch
+_
